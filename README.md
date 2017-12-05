@@ -7,7 +7,7 @@
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 ## Lauren Here:
- 
+
 (╯°□°）╯︵ ┻━┻
 
 ## Instructions
@@ -189,7 +189,7 @@ Now you need to get the changes that Lauren made.
 
 * Update your remote-tracking branches by writing a fetch command: `git fetch origin add-fireflies` or `git fetch --all`
 * Type `git branch`. You probably still only see `master` and `add-walrus-and-polar-bear`. Think about why this is.
-* Checkout the branch Lauren created: `git checkout add-fireflies`
+* Checkout the branch Lauren crea ted: `git checkout add-fireflies`
 * Now type `git branch`. You should see three branches: `master`, `add-walrus-and-polar-bear`, and `add-fireflies` (highlighted)
 * If you open the readme in Sublime from the add-fireflies branch, you should see Lauren's table flip addition.
 * Still in the `add-fireflies` branch, add the HTML code below to `index.html`, below the turtle.
